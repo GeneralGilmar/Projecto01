@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\bin\Debug\net6.0\Exercicios05.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\bin\Debug\net6.0\Exercicios05.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\bin\Debug\net6.0\Exercicios05.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\bin\Debug\net6.0\Exercicios05.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\bin\Debug\net6.0\Exercicios05.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\refint\Exercicios05.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\Exercicios05.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Exercicios05\obj\Debug\net6.0\ref\Exercicios05.dll

@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\bin\Debug\net6.0\PrimeiroProjecto.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\bin\Debug\net6.0\PrimeiroProjecto.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\bin\Debug\net6.0\PrimeiroProjecto.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\bin\Debug\net6.0\PrimeiroProjecto.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\bin\Debug\net6.0\PrimeiroProjecto.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\refint\PrimeiroProjecto.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\PrimeiroProjecto.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\ConsoleApp1\obj\Debug\net6.0\ref\PrimeiroProjecto.dll

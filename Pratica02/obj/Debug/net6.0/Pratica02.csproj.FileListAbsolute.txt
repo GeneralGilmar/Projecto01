@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\bin\Debug\net6.0\Pratica02.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\bin\Debug\net6.0\Pratica02.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\bin\Debug\net6.0\Pratica02.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\bin\Debug\net6.0\Pratica02.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\bin\Debug\net6.0\Pratica02.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\refint\Pratica02.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\Pratica02.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\PrimeiroProjecto\Pratica02\obj\Debug\net6.0\ref\Pratica02.dll
